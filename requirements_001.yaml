@@ -1,0 +1,10 @@
+required:
+  - [ 'R1', 'THEME Dark - True', 'dark' ]
+  - [ 'R2', 'Input Clear Test', '' ]
+  - [ 'R3', 'Input Equal Test', '3' ]
+  - [ 'R4', 'Input Button Test', 'str' ]
+  - [ 'R5', 'Set Widget - Buttons', [ 'ttk::label', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button', 'ttk::button' ] ]
+
+optional:
+  - [ 'O1', '', '' ]
+  - [ 'O2', '', '' ]
